@@ -8,7 +8,7 @@ You may use the repo [ni/Github-Repo-Template](https://github.com/ni/Github-Repo
  - use the MIT license (approved by NI Legal for permissively open source projects). If you are considering copyleft (e.g. GPL), contact opensource@ni.com.
  - LICENSE should include NI copyright at the top of the file (e.g. "Copyright (c) 2022, National Instruments Corp.")
 - include a CONTRIBUTING.md in the root directory
- - it should contain the Developer Certificate of Origin (DCO)
+ - it should contain the [Developer Certificate of Origin (DCO)](https://developercertificate.org/)
 - include language in .github/pull_request_template.md that explicitly acknowledges the submission adheres to the DCO
 
 For NI employees, you can read more about open source considerations in the [Open Source Handbook](https://ni.visualstudio.com/DevCentral/_wiki/wikis/AppCentral.wiki/20767/Open-Source-Handbook), in Azure DevOps.
