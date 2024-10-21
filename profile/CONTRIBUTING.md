@@ -9,7 +9,7 @@ You may use the repo [ni/Github-Repo-Template](https://github.com/ni/Github-Repo
     - LICENSE should include NI copyright at the top of the file (e.g. "Copyright (c) 2022, National Instruments Corp.")
 - Include a CONTRIBUTING.md in the root directory
     - It should contain the [Developer Certificate of Origin (DCO)](https://developercertificate.org/)
-- Include language in .github/pull_request_template.md that explicitly acknowledges the submission adheres to the DCO
+- Install the [GitHub DCO App](https://github.com/apps/dco) for this repository to ensure DCO compliance by all contributors.
 
 For NI employees, you can read more about open source considerations in the [Open Source Handbook](https://ni.visualstudio.com/DevCentral/_wiki/wikis/AppCentral.wiki/20767/Open-Source-Handbook), in Azure DevOps.
 
